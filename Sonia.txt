@@ -3,5 +3,3 @@ This is the first repo file for practice..!!
 Changes done..!!
 
 New Branch data is added..!!
-
-Second branch data is also added..!!
