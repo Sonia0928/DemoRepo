@@ -6,4 +6,10 @@
 			<class name="TestOne"></class>
 		</classes>
 	</test>
+	
+		<test name="Test2">
+		<classes>
+			<class name="TestOne"></class>
+		</classes>
+	</test>
 </suite>
